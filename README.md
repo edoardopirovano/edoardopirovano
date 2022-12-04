@@ -1,6 +1,6 @@
 # Greetings! <img src="https://raw.githubusercontent.com/edoardopirovano/edoardopirovano/master/wave.gif" width="30px">
 
-My name is Edoardo, and I'm a software engineer working on GitHub's CodeQL code analysis engine. I'm originally from Italy, and currently live in London.
+My name is Edoardo, and I'm a software engineer working for Lacework. I'm originally from Italy, and currently live in London.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
