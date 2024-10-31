@@ -20,8 +20,8 @@ My name is Edoardo, and I'm a software engineer working for Meticulous. I'm orig
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/edoardopirovano/edoardopirovano">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoardopirovano&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=c%2B%2B,c,html" />
+  <img align="center" src="https://github-readme-stats-7kv5os4pz-edoardo-personal.vercel.app/api/top-langs/?username=edoardopirovano&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=c%2B%2B,c,html" />
 </a>
 <a href="https://github.com/edoardopirovano/edoardopirovano">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edoardopirovano&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Edoardo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-7kv5os4pz-edoardo-personal.vercel.app/api?username=edoardopirovano&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Edoardo's GitHub Stats" />
 </a>
